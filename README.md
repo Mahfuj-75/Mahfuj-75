@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahfuj Rahman</h1>
 <h3 align="center">Passionate about coding, creativity & real-world problem solving | Learning C# & web dev</h3>
 
-<img align="center" width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/220d505c-1632-4bc6-84d9-932f50330fdd" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/220d505c-1632-4bc6-84d9-932f50330fdd" 
+       alt="image" width="500" height="400"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuj-75&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuj-75" /> </p>
 
