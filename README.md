@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahfuj Rahman</h1>
 <h3 align="center">
-🚀 Aspiring Software Engineer | C# & .NET Enthusiast | Web Developer
+  C# & .NET Enthusiast | Web Developer
 </h3>
 
 <p align="center">
@@ -29,10 +29,10 @@
 ---
 
 ### 🚀 What I'm Working On
-- 🔹 C# Desktop & Web Applications  
+- 🔹 C# Desktop & learn Web Applications  
 - 🔹 Backend logic with **.NET & SQL**
 - 🔹 Clean UI with **HTML, CSS & React**
-- 🔹 Building strong **problem-solving skills**
+- 🔹 Building strong **problem-solving skills & Real World Applications**
 
 ---
 
@@ -55,13 +55,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuj-75&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj-75&layout=compact&theme=tokyonight" height="165"/>
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj-75&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuj-75&theme=tokyonight" />
 </p>
 
 ---
