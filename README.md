@@ -41,9 +41,7 @@
   <a href="https://www.linkedin.com/in/mahfuj-rahman-1884012b0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/mahfuj.majumder.1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
+
   <a href="mailto:mahfuj.majumder2002@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
